@@ -1,1 +1,1 @@
-https://readme-typing-svg.demolab.com/demo/?lines=BaNoF_+%7C+Code+with+Love+%3C3
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=BaNoF_+%7C+Code+with+Love+%3C3" alt="Typing SVG" /></a>
