@@ -1,8 +1,20 @@
 settings:
-  error-permission: '&x&f&b&4&d&0&0[⚠] Ошибка! &fУ вас недостаточно прав!'
-  error-sound: "ENTITY_VILLAGER_NO" # список звуков можно найти по команде /playsound тут можно нажать TAB block ник
-  no-sound: "&x&f&b&4&d&0&0[⚠] Ошибка! &fВ конфиге неверный звук!!!" # список звуков можно найти по команде /playsound тут можно нажать TAB block ник
-  console: '&x&f&b&4&d&0&0[⚠] Ошибка! &fДанная команда может быть выполнена только от имени игрока!'
-  no-one-around: '&6[✇]&e Радар &f› Вокруг вас никого нет'
-  radar: '&6【 ⓘ 】&e Радар &f› Игроки в радиусе &6{search_radius} блоков&f от вас:'
   max-radius: 100
+  console: "&x&f&b&4&d&0&0[⚠] Ошибка! &fДанная команда может быть выполнена только от имени игрока!!"
+  error-permission: "&cНет прав!"
+  error-sound: "BLOCK_NOTE_BLOCK_BASS"
+  no-sound: "Указанный звук не найден!"
+  radar: "&6【 ⓘ 】&e Радар &f› Игроки в радиусе &6{search_radius} блоков&f от вас:"
+  no-one-around: "&6[✇]&e Радар &f› Вокруг вас никого нет"
+  enable-invsee-button: false
+  name-format: "%vault_rankprefix% %player_name%"
+
+directions:
+  straight: "⬆"
+  straight-right: "⬈"
+  right: "➡"
+  back-right: "⬊"
+  back: "⬇"
+  back-left: "⬋"
+  left: "⬅"
+  straight-left: "⬉"

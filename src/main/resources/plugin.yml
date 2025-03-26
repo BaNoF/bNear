@@ -1,11 +1,11 @@
 name: bNear
-version: 1.0
+version: 2.0
 main: ru.mine.bnear.BNear
-api-version: '1.17'
-author: [ BaNoF_, Lairon1]
-description: Это мой первый плагин для SpigotMc.ru. Надеюсь, вам понравится. Часть кода взял из гита Lairon1. Спасибо ему!
+author: [ bTeam]
+description: bNear— Это приятный плагин на /near. Плагин имеет настройку радиуса звуков и многое другое, а также есть кнопка, открывающая инвентарь игрока. которого нашёл near.
 softdepend:
   - LuckPerms
+  - PlaceholderAPI
 commands:
   near:
     aliases: [bnear]
